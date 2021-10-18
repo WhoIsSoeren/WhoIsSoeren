@@ -2,7 +2,7 @@
 
 <h3 align="center">A developer in learning from germany.</h3>
 
-- 🌱 I’m currently learning **Lua**
+- 🌱 I’m currently learning **Lua** ([FiveM](https://github.com/1o2r3n/FiveM) based)
 
 - 👨‍💻 All of my projects are available at [https://so-en.eu/portfolio](https://so-en.eu/portfolio) *(coming soon)*
 
