@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/1o2r3n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1o2r3n" height="30" width="40" /></a>
 <a href="https://instagram.com/1o2r3n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1o2r3n" height="30" width="40" /></a>
+  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1o2r3n" height="30" width="40" /></a>
 <a href="https://www.buymeacoffee.com/1o2r3n" target="blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="1o2r3n" height="50" width="210" /></a>
 </p>
 
