@@ -2,12 +2,6 @@
 
 <h3 align="center">A developer in learning from germany.</h3>
 
-- 🌱 I’m currently learning **Lua** ([FiveM](https://github.com/1o2r3n/FiveM) based)
-
-- 👨‍💻 All of my projects are available at [https://so-en.eu/portfolio](https://so-en.eu/portfolio) *(coming soon)*
-
-- 📫 How to reach me **hallo@so-en.eu**
-
 <h2>GitHub Trophy</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1o2r3n" alt="1o2r3n" /></a> </p>
 
