@@ -24,10 +24,10 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/378528712850669568)](https://discord.com/users/378528712850669568)
 
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+<a href="https://discord.gg/jun4FRVWV8" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="1o2r3n"/></a>
+<a href="https://www.instagram.com/1o2r3n/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="1o2r3n"/></a>
+<a href="https://www.tiktok.com/@1o2r3n/" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="1o2r3n"/></a>
+<a href="https://www.twitter.com/1o2r3n/" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="1o2r3n"/></a>
 
 <h2>Special Thanks to</h2>
 
