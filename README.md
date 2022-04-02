@@ -37,4 +37,4 @@
 
 **Leon**
 - Github: https://github.com/UnknownL3on
-- Webseite: https://l3on.de
+- Webseite: https://l3on.eu
