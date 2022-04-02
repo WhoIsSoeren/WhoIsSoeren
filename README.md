@@ -32,5 +32,9 @@
 <h2>Special Thanks to</h2>
 
 **flaced**
-- Github: http://github.com/flaced
-- Webseite: http://flaced.de
+- Github: https://github.com/flaced
+- Webseite: https://flaced.de
+
+**Leon**
+- Github: https://github.com/UnknownL3on
+- Webseite: https://l3on.de
