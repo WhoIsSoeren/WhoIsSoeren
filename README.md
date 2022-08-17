@@ -35,6 +35,7 @@
 **flaced**
 - Github: https://github.com/flaced
 - Webseite: https://flaced.de
+[![ACTIVITY](https://rest.flaced.de/discord/banner/338263164271591425?bday=2007/01/26&theme=discord)]
 
 **Leon**
 - Github: https://github.com/UnknownL3on
