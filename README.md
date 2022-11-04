@@ -12,7 +12,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1o2r3n&show_icons=true&theme=dark&locale=en" alt="1o2r3n" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1o2r3n&theme=dark&layout=compact" />
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 <h2>Skills</h2>
