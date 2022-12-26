@@ -76,7 +76,7 @@
 
 ### :star: Special thanks to :
 
-**flaced :** [GitHub](https://github.com/flaced) - [Website](https://flaced.de)
+**flaced :** [GitHub](https://github.com/flaced) - [Webseite](https://flaced.de)
 <div></div>
 
-**Leon :** [GitHub](https://github.com/UnknownL3on)
+**Leon :** [GitHub](https://github.com/UnknownL3on) - [Webseite](https://leondev.xyz/)
