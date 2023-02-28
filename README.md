@@ -20,7 +20,7 @@
 
 <img src="https://media.discordapp.net/attachments/1022502818185224193/1080250503272878110/Logo-Gelb.png" width="20px"/> **LosAngelesLife** - upcoming
 
-<img src="https://media.discordapp.net/attachments/1022502818185224193/1080253196322226206/FLnew.png?width=1011&height=673" width="20px"/> **Feellife** - closed
+<img src="https://media.discordapp.net/attachments/1022502818185224193/1080253196322226206/FLnew.png?width=1011&height=673" width="20px"/> **Feellife** - moved to LosAngelesLife
 
 <img src="https://media.discordapp.net/attachments/1022502818185224193/1080251590784581682/circle-cropped_10.png?width=673&height=673" width="22px"/> **Evolved** - closed
 
