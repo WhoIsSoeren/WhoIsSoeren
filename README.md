@@ -19,7 +19,7 @@
 | Active          | Upcoming        | Closed          |
 | --------------- | --------------- | --------------- |
 | <img src="https://media.discordapp.net/attachments/1022502818185224193/1080249319405391882/1640714005402.png?width=673&height=673" width="20px"/> **ParadoxRP** - https://paradox-rp.de/ | <img src="https://media.discordapp.net/attachments/1022502818185224193/1080250503272878110/Logo-Gelb.png" width="20px"/> **LosAngelesLife** - upcoming | <img src="https://media.discordapp.net/attachments/1022502818185224193/1080253196322226206/FLnew.png?width=1011&height=673" width="20px"/> **Feellife** - moved to LA-Life |
-| <img src="https://media.discordapp.net/attachments/1022502818185224193/1080249944776118454/GC_Projektleitung.png" width="20px"/> **Greencity v2** - https://greencityrp.de/ |  | <img src="https://media.discordapp.net/attachments/1022502818185224193/1080251590784581682/circle-cropped_10.png?width=673&height=673" width="18px"/> **Evolved** |
+| <img src="https://media.discordapp.net/attachments/1022502818185224193/1080249944776118454/GC_Projektleitung.png" width="20px"/> **Greencity v2** - https://greencityrp.com/ |  | <img src="https://media.discordapp.net/attachments/1022502818185224193/1080251590784581682/circle-cropped_10.png?width=673&height=673" width="18px"/> **Evolved** |
 |  |  | <img src="https://media.discordapp.net/attachments/1022502818185224193/1080252512495480922/d-logo-dd.png" width="20px"/> **Divine** |
 |  |  | <img src="https://media.discordapp.net/attachments/1022502818185224193/1080254344710082590/awdawdawdawd.png" width="20px"/> **SkyCityRP** |
 |  |  | <img src="https://media.discordapp.net/attachments/1022502818185224193/1080252911218606110/transparent-gro.png" width="20px"/> **DynamicV** |
