@@ -12,9 +12,3 @@
 </div>
 
 ---
-
-### You will find my work in the following projects:
-
-
-<img src="https://media.discordapp.net/attachments/1022502818185224193/1080249319405391882/1640714005402.png?width=673&height=673" width="20px"/> **ParadoxRP** - https://paradox-rp.de/
-<img src="https://media.discordapp.net/attachments/1022502818185224193/1080249944776118454/GC_Projektleitung.png" width="20px"/> **Greencity v2** - https://greencityrp.com/ 
